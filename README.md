@@ -70,14 +70,14 @@
 ## 运行项目
 
 ```
-cd vue-store
-npm install
+cd Imitate-xiaomiStore
+  npm install
 
-3. Compiles and hot-reloads for development
+Compiles and hot-reloads for development
 
-npm run serve
+  npm run serve
 
-4. Compiles and minifies for production
+Compiles and minifies for production
 
-npm run build
+  npm run build
 ```
